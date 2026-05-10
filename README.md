@@ -18,6 +18,7 @@ Hệ thống máy chủ chất lượng cao, phân bổ rộng khắp trên toà
 
 ### 🛡️ Giao Thức VLESS & Khả Năng Ngụy Trang Mạnh Mẽ
 BirdWarp sử dụng **giao thức VLESS** tiên tiến nhất hiện nay. Kết hợp với các công nghệ ngụy trang lưu lượng (strong disguise/obfuscation), đường truyền của bạn sẽ trông giống như lưu lượng truy cập web HTTPS thông thường.
+<img width="1548" height="868" alt="image" src="https://github.com/user-attachments/assets/4b8cf540-b2e1-4d29-875b-cfdef18136b6" />
 
 ### 🕵️‍♂️ Chống Phân Tích Gói Tin Sâu (Anti-DPI)
 Hệ thống của chúng tôi được kỹ thuật hóa để qua mặt hoàn toàn các công nghệ quét mạng tinh vi. **Khả năng Anti-DPI cực mạnh** giúp bạn vượt qua mọi bức tường lửa khắt khe nhất từ các ISP hoặc hệ thống kiểm duyệt quốc gia, đảm bảo kết nối không bao giờ bị phát hiện hay chặn đứng.
